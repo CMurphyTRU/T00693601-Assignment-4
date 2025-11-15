@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class TemperatureConverter {
+public class TemperatureConverterRefactored {
 
     // =========== Constants ==============
     private static final double FAHRENHEIT_SCALE = 9.0 / 5.0;
